@@ -1,5 +1,5 @@
 
-# Deployment of Machine Learning Model into AWS Cloud ServersFlask-ML-Project
+# Deployment of Machine Learning Model into AWS Cloud Servers
 
 This project is a spam detector API developed using Flask framework and deployed on AWS Elastic Beanstalk. The API uses a machine learning model to classify whether a given text message is spam or not.
 
